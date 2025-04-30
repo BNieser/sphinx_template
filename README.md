@@ -1,4 +1,3 @@
-# sphinx_template/sphinx_template/README.md
 
 # Sphinx Template
 
@@ -10,13 +9,13 @@ for creating the documentation.
 Clone this repo where the documentation shall live.
 
 ```bash
-git clone 
+git clone https://github.com/BNieser/sphinx_template.git
 ```
 
 go into cloned folder 
 
 ```bash
-    cd 
+    cd sphinx_template
 ```
 
 
