@@ -1,0 +1,14 @@
+
+
+.venv
+
+# remove sphinx build files 
+
+docs/_build
+
+
+
+# remove python caches
+
+
+*.egg-info
